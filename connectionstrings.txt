@@ -1,0 +1,3 @@
+<connectionStrings>
+	<add name="RestaurantDBEntities" connectionString="metadata=res://*/Model1.csdl|res://*/Model1.ssdl|res://*/Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=LTIN181173\SQLEXPRESS;initial catalog=RestaurantDB;persist security info=True;user id=sa;password=Liya73;trustservercertificate=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient" />
+</connectionStrings>
